@@ -5,5 +5,5 @@
 * Joaquin Morales Nieto
 
 ## **Enlaces para visitar la web:**
-* Azure WebSite: [](https://hmis-jpm652.azurewebsites.net/) 
-* Máquina Virtual: [](portillomoralesweb.eastus2.cloudapp.azure.com)
+* Azure WebSite: (https://hmis-jpm652.azurewebsites.net/) 
+* Máquina Virtual: (portillomoralesweb.eastus2.cloudapp.azure.com)
