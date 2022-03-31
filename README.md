@@ -6,4 +6,4 @@
 
 ## **Enlaces para visitar la web:**
 * Azure WebSite: (https://hmis-jpm652.azurewebsites.net/) 
-* Máquina Virtual: (portillomoralesweb.eastus2.cloudapp.azure.com)
+* Máquina Virtual: (http://portillomoralesweb.eastus2.cloudapp.azure.com/)
